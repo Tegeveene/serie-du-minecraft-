@@ -8,6 +8,6 @@ Version 1.12.2-forge-14.23.5.2855
 
 Forge: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html
 
-Server:Travazapjejeje.aternos.me
+Server:PapuCueva.aternos.me
 
-Mods: https://www.mediafire.com/file/6hb0ld48trfds8u/mods+1.12.2.rar/file
+Mods: https://www.mediafire.com/file/e8vt62acm34wxgi/mods+1.12.2+papucueva.zip/file
